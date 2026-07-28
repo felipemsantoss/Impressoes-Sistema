@@ -1,4 +1,3 @@
-# Impressoes-Sistema
 # Impressões do Sistema em DOMPDF (Adianti)
 
 Projeto desenvolvido para geração de impressões em PDF utilizando **DOMPDF** integrado ao framework **Adianti**.
