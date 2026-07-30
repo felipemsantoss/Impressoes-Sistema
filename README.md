@@ -26,16 +26,9 @@ O projeto contém templates HTML utilizados para geração de documentos em PDF,
 
 ## ▶️ Como utilizar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/felipemsantoss/Impressoes-Sistema.git
-   ```
-
-2. Configure o ambiente PHP e o Framework Adianti.
-
-3. Instale as dependências necessárias.
-
-4. Execute o sistema normalmente.
+1° Abra o Sistema (na base que precisa modificar)
+2° Entre no módulo de impressão
+3° Configure a impressão
 
 ## 👨‍💻 Autor
 
